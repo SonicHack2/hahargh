@@ -1,0 +1,10 @@
+body {
+    background-image: url("images/jc.png");
+    background-size: cover;
+
+}
+
+.centre {
+    float:center;
+    text-align:center;
+}
