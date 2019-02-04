@@ -1,10 +1,29 @@
 body {
     background-image: url("images/jc.png");
     background-size: cover;
-
+    overflow: hidden;
 }
 
-.centre {
+.hahargh{
     float:center;
     text-align:center;
+    font-family: 'Playfair Display SC', serif;
+    font-weight: bold;
+}
+
+footer {
+    background-color:hotpink;
+
+    height:100px;
+    width:100%;
+    bottom: 0%;
+    left:0%;
+    position:absolute;
+
+    text-align:center;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size:30px;
+    font-weight:1000;
+
+    border: solid black;
 }
